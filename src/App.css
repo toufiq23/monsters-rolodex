@@ -8,3 +8,12 @@ h1 {
   font-size: 72px;
   color: #0ccac4;
 }
+
+.created {
+	margin-top: 30px;
+	text-align: center;
+}
+
+h2 {
+	color: red;
+}
